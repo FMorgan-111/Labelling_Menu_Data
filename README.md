@@ -5,7 +5,6 @@
 To install Label Studio with pip, you need Python version 3.7 or later. Run the following:
 ```
 pip install label-studio
-
 ```
 
 After you install Label Studio, start the server with the following command:
