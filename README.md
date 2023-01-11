@@ -12,3 +12,4 @@ After you install Label Studio, start the server with the following command:
 ```
 label-studio
 ```
+The default web browser opens automatically at http://localhost:8080 with Label Studio.
